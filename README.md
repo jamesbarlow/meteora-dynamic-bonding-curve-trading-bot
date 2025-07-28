@@ -1,3 +1,4 @@
+# Meteora (dynamic bonding curve) DBC trading bot
 
 ## Project Structure
 
